@@ -14,3 +14,9 @@ A subscription-based company wants to identify customers who are likely to leave
 2. Encourage customers to move to longer-term contracts through loyalty benefits.
 3. Monitor customers with high monthly charges and short tenure.
 4. Use churn prediction scores to prioritise customer service follow-up.
+
+## Limitations
+
+- The dataset does not include customer satisfaction scores or complaint history.
+- The model predicts churn risk but does not prove causality.
+- Further validation would be needed before using the model in production.
